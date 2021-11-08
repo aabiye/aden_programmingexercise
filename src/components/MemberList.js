@@ -4,7 +4,7 @@ import Member from "./Member";
 import Pagination from "react-bootstrap/Pagination";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-const api_key = "61888da502844defa16dd86096aea78f";
+const api_key = ""; // <-- Add api key inside ""
 
 async function getMembers(page = 1) {
   let skip = page * 10;
