@@ -29,12 +29,6 @@ function Footer() {
               <li>
                 <a href="/member">Member Profiles</a>
               </li>
-              <li>
-                <a href="#">Vote Information</a>
-              </li>
-              <li>
-                <a href="#">Election Information</a>
-              </li>
             </ul>
           </div>
           <div className="footer-item">
@@ -43,12 +37,6 @@ function Footer() {
               <li>
                 <a href="/about">Overview</a>
               </li>
-              <li>
-                <a href="#">Duties of the Clerk</a>
-              </li>
-              <li>
-                <a href="#">Offices and Services</a>
-              </li>
             </ul>
           </div>
           <div className="footer-item">
@@ -56,12 +44,6 @@ function Footer() {
             <ul role="list">
               <li>
                 <a href="/contact">Contact Us</a>
-              </li>
-              <li>
-                <a href="#">Support Center</a>
-              </li>
-              <li>
-                <a href="#">FAQs</a>
               </li>
             </ul>
           </div>
