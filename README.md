@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Aden's Instructions
+
+Insert the provided API KEY inside "MemberList" Component Line 8
+
+### Aden's TO DO
+
+Integrating vote data to member
+Sort Data by Member name ascending
+Filter Data by status(Active/Inactive)
